@@ -2,3 +2,4 @@ git@github.com:spolekczluchow/fizyka.git
 
 Binder
 https://mybinder.org/v2/gh/spolekczluchow/fizyka.git/master
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/git@github.com:spolekczluchow/fizyka.git/Fizyka)
