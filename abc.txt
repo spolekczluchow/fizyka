@@ -1,0 +1,4 @@
+git@github.com:spolekczluchow/fizyka.git
+
+Binder
+https://mybinder.org/v2/gh/spolekczluchow/fizyka.git/master
